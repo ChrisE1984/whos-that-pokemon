@@ -16,7 +16,7 @@ body {
   padding: 16px;
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   color: #1f2937;
-  background: #e3350d; /* Poké Ball red */
+  background: #2cf0f0; /* Poké Ball red */
 }
 
 .game {
@@ -70,7 +70,7 @@ h1 {
   min-height: 300px;
   padding: 16px;
   border-radius: 16px;
-  background: repeating-conic-gradient(#2a75bb 0deg 10deg, #3d8bd4 10deg 20deg);
+  background: repeating-conic-gradient(#2a75bb 0deg 10deg, #3aebc4 10deg 20deg);
 }
 
 #pokemon-img {
